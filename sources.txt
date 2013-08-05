@@ -1,0 +1,5 @@
+https://github.com/mgsloan/toy-diagrams
+https://github.com/mgsloan/toy-gtk
+https://github.com/mgsloan/toy-gtk-diagrams
+https://github.com/mgsloan/toy-interface
+https://github.com/mgsloan/diagrams-ghci
